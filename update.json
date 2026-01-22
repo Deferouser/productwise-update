@@ -1,6 +1,6 @@
 {
-   "versionCode": 52,
-   "versionName": "0.52",
-   "apkUrl": "https://github.com/Deferouser/productwise-update/releases/download/v52/app-debug.apk",
-   "releaseNotes": "Bug fixes and performance improvements."
+   "versionCode": 53,
+   "versionName": "0.53",
+   "apkUrl": "https://github.com/Deferouser/productwise-update/releases/download/v53/app-debug.apk",
+   "releaseNotes": "Receipts Scan beta."
 }
