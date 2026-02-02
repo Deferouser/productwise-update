@@ -1,6 +1,6 @@
 {
-   "versionCode": 57,
-   "versionName": "0.57",
-   "apkUrl": "https://github.com/Deferouser/productwise-update/releases/download/v57/app-debug.apk",
+   "versionCode": 58,
+   "versionName": "0.58",
+   "apkUrl": "https://github.com/Deferouser/productwise-update/releases/download/v58/app-debug.apk",
    "releaseNotes": "Receipt scanner change and parser fix"
 }
