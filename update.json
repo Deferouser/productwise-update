@@ -1,6 +1,6 @@
 {
-   "versionCode": 60,
-   "versionName": "0.60",
-   "apkUrl": "https://github.com/Deferouser/productwise-update/releases/download/v60/app-debug.apk",
-   "releaseNotes": "Barcode Logic Change"
+   "versionCode": 62,
+   "versionName": "0.62",
+   "apkUrl": "https://github.com/Deferouser/productwise-update/releases/download/v62/app-debug.apk",
+   "releaseNotes": "Store item request added to in store barcode scan"
 }
