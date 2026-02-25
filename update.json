@@ -1,6 +1,6 @@
 {
-   "versionCode": 62,
-   "versionName": "0.62",
-   "apkUrl": "https://github.com/Deferouser/productwise-update/releases/download/v62/app-debug.apk",
-   "releaseNotes": "Store item request added to in store barcode scan"
+   "versionCode": 63,
+   "versionName": "0.63",
+   "apkUrl": "https://github.com/Deferouser/productwise-update/releases/download/v63/app-debug.apk",
+   "releaseNotes": "Points system integration"
 }
